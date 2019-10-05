@@ -45,7 +45,7 @@ export default class ChartRace extends Component{
 
 }
 
-RaceChart.defaultProps = {
+ChartRace.defaultProps = {
 	data: [],
 	backgroundColor: '#f9f9f9',
 	width: 680,
