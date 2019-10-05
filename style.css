@@ -1,0 +1,6 @@
+.raceArea{box-sizing:border-box;position:relative}
+.raceItem{display:flex;align-items:center;position:absolute;top:0px;left:0px;transition:all 1200ms}
+.raceItem b{height:100%;border-radius:4px;transition:all 600ms;background:#dadada}
+.raceItem span{width:112px;margin-left:8px;display:flex;flex-direction:column}
+.raceItem em{text-overflow:ellipsis;overflow:hidden;white-space:nowrap}
+.raceItem i{margin-top:2px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap}

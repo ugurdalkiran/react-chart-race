@@ -1,0 +1,22 @@
+{
+	"name": "react-chart-race",
+	"version": "0.0.1",
+	"description": "Animated bar chart race for ReactJS.",
+	"main": "ChartRace.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ugurdalkiran/react-chart-race.git"
+	},
+	"keywords": [
+		"chart race",
+		"bar chart race",
+		"react chart race",
+		"react animated chart"
+	],
+	"author": "Uğur Dalkıran",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ugurdalkiran/react-chart-race/issues"
+	},
+	"homepage": "https://github.com/ugurdalkiran/react-chart-race/blob/master/README.md"
+}
