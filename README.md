@@ -4,7 +4,7 @@ The animated bar chart race helps you visualize your changing data in a wonderfu
 
 ## Image
 
-<img src="https://github.com/ugurdalkiran/react-chart-race/blob/master/demo.gif" width="600">
+<img src="https://raw.githubusercontent.com/ugurdalkiran/react-chart-race/master/demo.gif" width="600">
 
 ## Features
 
