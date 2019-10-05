@@ -33,7 +33,7 @@ import ChartRace from 'react-chart-race';
 Name | Value | Default | Description
 --- | --- | --- | ---
 data | `Array` | [] | Data required for drawing the graph.
-backgroundColor | `String` | '#f9f9f9' | The background color of the field.
+backgroundColor | `String` | #f9f9f9 | The background color of the field.
 width | `Number` | 680 | The width of the field.
 padding | `Number` | 20 | The internal space of the field.
 itemHeight | `Number` | 38 | The height of a bar.
